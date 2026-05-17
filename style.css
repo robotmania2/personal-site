@@ -1,0 +1,27 @@
+body {
+    background-color: #303030;
+    padding-top: 25px;
+    padding-left: 25px;
+    font-family: verdana, sans-serif, helvetica;
+}
+
+h1 {
+    color: white;
+}
+
+h2{
+    color:white;
+    font-size: 12pt;
+}
+
+p {
+    color:white;
+}
+
+t {
+    color:white;
+}
+
+.highlight {
+    color:limegreen;
+}

@@ -25,3 +25,10 @@ t {
 .highlight {
     color:limegreen;
 }
+
+a:link {
+    color: limegreen;
+}
+a:visited {
+    color: darkgreen;
+}
